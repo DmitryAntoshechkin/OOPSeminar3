@@ -30,7 +30,6 @@ public class Main {
         System.out.println(list2.inList("Саша "));
         System.out.println(list2.inList("саша "));
 
-        list1.remove(20);
 
 
 
